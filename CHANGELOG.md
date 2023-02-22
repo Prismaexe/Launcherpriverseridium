@@ -1,1 +1,1 @@
-Base2 XDkjlzebksdhm SZDQUHWOFOPÏXDDDc
+Ajout de traductions!
