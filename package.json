@@ -1,8 +1,8 @@
 {
   "name": "helioslauncher",
-  "version": "2.0.4",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
+  "version": "0.0.0",
+  "productName": "Seridium Launcher",
+  "description": "Launcher de Seridium",
   "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
